@@ -1,0 +1,11 @@
+What is data warehouse with example?
+Also known as enterprise data warehousing, data warehousing is an electronic method of organizing, analyzing, and reporting information. ... For example, data warehousing makes data mining possible, which assists businesses in looking for data patterns that can lead to higher sales and profits.
+
+What is exactly data warehouse?
+Data warehousing is the secure electronic storage of information by a business or other organization. The goal of data warehousing is to create a trove of historical data that can be retrieved and analyzed to provide useful insight into the organization's operations.
+
+data warehouse
+noun
+a large store of data accumulated from a wide range of sources within a company and used to guide management decisions.
+
+Data warehousing is a mixture of technology and components that enable a strategic usage of data. It is the electronic collection of a significant volume of information by an organization intended for query and analysis rather than for the processing of transactions. Data warehousing is a method of translating data into information and making it accessible to consumers in a timely way to make a difference.
